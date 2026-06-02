@@ -10,7 +10,8 @@ width="760"
 height="587"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
-&lt;/p>
+&lt;em>Image: Banner for episode 3 of the &amp;lsquo;Research Software and NRENs in Asia&amp;rsquo;
+series.&lt;/em>&lt;/p>
 &lt;p>On 12 May 2026, the
 &lt;a href="https://rse-asia.github.io/RSE_Asia/" target="_blank" rel="noopener">RSE Asia Association&lt;/a> hosted the third
 episode of its ongoing Community Call series,
@@ -31,7 +32,20 @@ spaces.&lt;/p>
 &lt;p>The discussion highlighted an important reality: libraries are no longer only repositories of books and journals. Increasingly, they are becoming hubs for
 digital scholarship, metadata management, open science, research analytics,
 technical training, and even software-enabled experimentation.&lt;/p>
-&lt;h2 id="a-career-that-mirrors-the-evolution-of-libraries">&lt;strong>A Career That Mirrors the Evolution of Libraries&lt;/strong>&lt;/h2>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="A glimpse of the HKUST Library" srcset="
+/RSE_Asia/blog/2026-05-12-apan_mou_victoria/dark_background_image_2_hu15883467203045323750.webp 400w,
+/RSE_Asia/blog/2026-05-12-apan_mou_victoria/dark_background_image_2_hu12039832582430198526.webp 760w,
+/RSE_Asia/blog/2026-05-12-apan_mou_victoria/dark_background_image_2_hu4292393599280378456.webp 1200w"
+src="https://rse-asia.github.io/RSE_Asia/RSE_Asia/blog/2026-05-12-apan_mou_victoria/dark_background_image_2_hu15883467203045323750.webp"
+width="760"
+height="587"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;em>Image: A glimpse of the HKUST Library&lt;/em>&lt;/p>
+&lt;h2 id="a-career-that-mirrors-the-evolution-of-libraries">&lt;strong>A career that mirrors the evolution of libraries&lt;/strong>&lt;/h2>
 &lt;p>Victoria Caplan opened the session by reflecting on her 33-year journey at
 &lt;a href="https://library.hkust.edu.hk/" target="_blank" rel="noopener">HKUST Library&lt;/a>. Beginning in cataloguing and
 metadata work, she later moved into user services, access services, and
@@ -46,30 +60,33 @@ understanding the broader research ecosystem.&lt;/p>
 &lt;p>Victoria also spoke about how completing her own MPhil later in her career
 helped her better empathise with postgraduate researchers. Having personally experienced the research process gave her deeper insight into the kinds of
 support students and scholars truly need.&lt;/p>
-&lt;h2 id="the-moment-software-became-central-to-libraries">&lt;strong>The Moment Software Became Central to Libraries&lt;/strong>&lt;/h2>
+&lt;h2 id="the-moment-software-became-central-to-libraries">&lt;strong>The moment software became central to libraries&lt;/strong>&lt;/h2>
 &lt;p>One of the most memorable reflections from the session came when Victoria
 described the moment she realised software and networks would fundamentally
 transform research support. She traced this back nearly 40 years to 1986, when
 an archivist at her university used an early networked system to locate
 archival materials for her undergraduate thesis in another city. Before that experience, access to information had been limited to local card catalogues
 and physical indices.&lt;/p>
-&lt;p>That moment revealed the power of networked information systems: the idea that knowledge could be discovered and connected beyond the physical boundaries of
-one library. Long before the modern web existed, the foundations of digital scholarship and networked research infrastructure were already emerging.&lt;/p>
-&lt;p>One of Victoria’s reflections captured the transformational nature of
+&lt;p>That moment revealed the power of networked information systems: the idea that knowledge could be discovered and connected beyond the physical boundaries of one library. Long before the modern web existed, the foundations of digital scholarship and networked research infrastructure were already emerging. One of Victoria’s reflections captured the transformational nature of
 networked research infrastructure:&lt;/p>
 &lt;div class="alert alert-note">
 &lt;div>
-&lt;blockquote>
-&lt;p>“I realised that there were all sorts of things that were available online that could be looked up on computers and that were networked together so that I was no longer stuck with what the contents of our card catalogue contained.”&lt;/p>
-&lt;/blockquote>
-&lt;p>— Victoria F. Caplan&lt;/p>
+&lt;div style="font-size:1.5em;">❝&lt;/div>
+&lt;div style="text-align: center; font-size: 1.5em; font-style: italic;">
+I realised that there were all sorts of things that were available online
+that could be looked up on computers and that were networked together so
+that I was no longer stuck with what the contents of our card catalogue
+contained.
+&lt;/div>
+&lt;div style="font-size:1.5em; text-align: right;">❞ &lt;/div>
+&lt;p>&amp;ndash; Victoria F. Caplan&lt;/p>
 &lt;/div>
 &lt;/div>
 &lt;p>Although she was describing an experience from the 1980s, the observation
 still resonates today. Research support increasingly depends on connected
 systems, interoperable platforms, and digital access that extends far beyond
 the walls of a single institution.&lt;/p>
-&lt;h2 id="the-expanding-technical-skillset-of-library-professionals">&lt;strong>The Expanding Technical Skillset of Library Professionals&lt;/strong>&lt;/h2>
+&lt;h2 id="the-expanding-technical-skillset-of-library-professionals">&lt;strong>The expanding technical skillset of library professionals&lt;/strong>&lt;/h2>
 &lt;p>As the discussion progressed, Victoria outlined the growing range of software
 and technical skills now expected within libraries. Her answer painted a
 picture of librarianship that is increasingly intertwined with data, software
@@ -91,12 +108,8 @@ knowledge effectively.&lt;/p>
 platforms that collect significant amounts of data. As a result, librarians
 must think carefully about privacy, intellectual property, and responsible
 stewardship of information.&lt;/p>
-&lt;h2 id="learning-through-curiosity-community-and-experimentation">&lt;strong>Learning Through Curiosity, Community, and Experimentation&lt;/strong>&lt;/h2>
-&lt;p>One of the strongest messages from the session was the importance of creating environments where staff can explore, experiment, and learn continuously.&lt;/p>
-&lt;p>Rather than enforcing rigid top-down skill development programmes, Victoria
-advocated for fostering curiosity. People should be encouraged to explore areas
-they genuinely care about and then discover how those interests can connect
-back to organisational needs.&lt;/p>
+&lt;h2 id="learning-through-curiosity-community-and-experimentation">&lt;strong>Learning through curiosity, community, and experimentation&lt;/strong>&lt;/h2>
+&lt;p>One of the strongest messages from the session was the importance of creating environments where staff can explore, experiment, and learn continuously. Rather than enforcing rigid top-down skill development programmes, Victoria advocated for fostering curiosity. People should be encouraged to explore areas they genuinely care about and then discover how those interests can connect back to organisational needs.&lt;/p>
 &lt;p>At the HKUST Library, this culture of learning takes many forms:&lt;/p>
 &lt;ul>
 &lt;li>Staff are encouraged to attend webinars, conferences, and university
@@ -114,30 +127,28 @@ emerging technologies.&lt;/li>
 Mid-Autumn Festival AI image-generation challenge. In fall 2023, Staff
 experimented with free AI image tools to create festival-themed visuals, which
 were later used on library communications platforms. The activity was
-intentionally playful and low-pressure, helping reduce intimidation around new technologies while encouraging hands-on exploration.&lt;/p>
-&lt;p>Victoria repeatedly returned to the importance of creating environments where curiosity is encouraged rather than restricted:&lt;/p>
+intentionally playful and low-pressure, helping reduce intimidation around new technologies while encouraging hands-on exploration. She repeatedly returned to the importance of creating environments where curiosity is encouraged rather than restricted:&lt;/p>
 &lt;div class="alert alert-note">
 &lt;div>
-&lt;blockquote>
-&lt;p>“If you don&amp;rsquo;t allow people to be curious and explore things, then they can
-never develop.”&lt;/p>
-&lt;/blockquote>
-&lt;p>— Victoria F. Caplan&lt;/p>
+&lt;div style="font-size:1.5em;">❝&lt;/div>
+&lt;div style="text-align: center; font-size: 1.5em; font-style: italic;">
+If you don't allow people to be curious and explore things, then they can
+never develop.
+&lt;/div>
+&lt;div style="font-size:1.5em; text-align: right;">❞ &lt;/div>
+&lt;p>&amp;ndash; Victoria F. Caplan&lt;/p>
 &lt;/div>
 &lt;/div>
 &lt;p>This idea became one of the central themes of the discussion. Technical
 growth, according to Victoria, does not happen through rigid mandates alone.
 It emerges when people are given space to experiment, ask questions, and
 connect their interests to meaningful work.&lt;/p>
-&lt;h2 id="from-learning-to-application">&lt;strong>From Learning to Application&lt;/strong>&lt;/h2>
+&lt;h2 id="from-learning-to-application">&lt;strong>From learning to application&lt;/strong>&lt;/h2>
 &lt;p>Throughout the webinar, Victoria stressed that certifications alone are not
 enough. Technical knowledge must be translated into practice. One of the
 mistakes she warned against was accumulating badges and credentials without
-finding ways to integrate those skills into everyday work.&lt;/p>
-&lt;p>To encourage practical application, the
-&lt;a href="https://library.hkust.edu.hk/" target="_blank" rel="noopener">HKUST Library&lt;/a> supports small internal
-projects where staff can experiment with coding, analytics, and digital tools.&lt;/p>
-&lt;p>Examples included:&lt;/p>
+finding ways to integrate those skills into everyday work. To encourage practical application, the &lt;a href="https://library.hkust.edu.hk/" target="_blank" rel="noopener">HKUST Library&lt;/a> supports small internal projects where staff can experiment with coding, analytics, and digital tools.&lt;/p>
+&lt;p>Some of the examples are:&lt;/p>
 &lt;ul>
 &lt;li>An &lt;a href="https://library.hkust.edu.hk/research-learning-support/research-support/publishing-sharing-your-research/open-access-publishing" target="_blank" rel="noopener">open-access journal finder&lt;/a> that helps researchers identify journals covered by institutional publishing agreements.&lt;/li>
 &lt;li>Interactive &lt;a href="https://library.hkust.edu.hk/about-us/statistics/library-data-analytics-dashboards" target="_blank" rel="noopener">Library data analytics&lt;/a> dashboards.&lt;/li>
@@ -149,18 +160,26 @@ in the library.&lt;/li>
 &lt;/ul>
 &lt;p>Another memorable insight from the session focused on the relationship between
 theory and practice:&lt;/p>
-&lt;p>&lt;em>“There’s praxis, the unity of theory and action.”&lt;/em>&lt;/p>
+&lt;div class="alert alert-note">
+&lt;div>
+&lt;div style="font-size:1.5em;">❝&lt;/div>
+&lt;div style="text-align: center; font-size: 1.5em; font-style: italic;">
+There’s praxis, the unity of theory and action.
+&lt;/div>
+&lt;div style="font-size:1.5em; text-align: right;">❞ &lt;/div>
+&lt;p>&amp;ndash; Victoria F. Caplan&lt;/p>
+&lt;/div>
+&lt;/div>
 &lt;p>Victoria emphasised that technical learning becomes valuable only when people
 are able to apply it in practical contexts. Certifications and training courses
 are useful, but their real impact comes when they help solve problems, improve workflows, or support users more effectively.&lt;/p>
-&lt;h2 id="managing-constraints-in-real-institutions">&lt;strong>Managing Constraints in Real Institutions&lt;/strong>&lt;/h2>
+&lt;h2 id="managing-constraints-in-real-institutions">&lt;strong>Managing constraints in real institutions&lt;/strong>&lt;/h2>
 &lt;p>The conversation also addressed a more difficult challenge: balancing
 innovation with limited time, staffing, and resources.&lt;/p>
 &lt;p>Victoria spoke candidly about the realities of management. Supporting
 professional development often means making difficult choices about priorities.
 If staff spend time learning new tools or technologies, then some older
-workflows or lower-priority activities may need to be reduced or retired.&lt;/p>
-&lt;p>She described how libraries must continually evaluate what still provides value
+workflows or lower-priority activities may need to be reduced or retired. She described how libraries must continually evaluate what still provides value
 and what persists simply because &lt;em>“&lt;strong>it has always been done that way&lt;/strong>.”&lt;/em>&lt;/p>
 &lt;p>One example involved metadata practices. Decades ago, librarians spent
 extensive time manually refining and perfecting metadata records. Today, much
@@ -174,27 +193,31 @@ advice, applied to organisational change. that resonated strongly with the
 audience:&lt;/p>
 &lt;div class="alert alert-note">
 &lt;div>
-&lt;blockquote>
-&lt;p>“Sometimes when they’re editing, writers say you have to ‘&lt;a href="https://slate.com/culture/2013/10/kill-your-darlings-writing-advice-what-writer-really-said-to-murder-your-babies.html" target="_blank" rel="noopener">kill your darlings&lt;/a>.’”&lt;/p>
-&lt;/blockquote>
-&lt;p>— Victoria F. Caplan&lt;/p>
+&lt;div style="font-size:1.5em;">❝&lt;/div>
+&lt;div style="text-align: center; font-size: 1.5em; font-style: italic;">
+Sometimes when they’re editing, writers say you have to &lt;a href="https://slate.com/culture/2013/10/kill-your-darlings-writing-advice-what-writer-really-said-to-murder-your-babies.html">
+kill your darlings&lt;/a>.
+&lt;/div>
+&lt;div style="font-size:1.5em; text-align: right;">❞ &lt;/div>
+&lt;p>&amp;ndash; Victoria F. Caplan&lt;/p>
 &lt;/div>
 &lt;/div>
 &lt;p>In the context of libraries, this referred to the difficult but necessary
 process of letting go of workflows or practices that may once have been
 valuable but no longer serve users effectively. Making space for innovation
 often requires making difficult choices about priorities.&lt;/p>
-&lt;h2 id="future-proofing-is-impossible---but-adaptability-matters">&lt;strong>Future-Proofing Is Impossible - But Adaptability Matters&lt;/strong>&lt;/h2>
+&lt;h2 id="future-proofing-is-impossible---but-adaptability-matters">&lt;strong>Future-proofing is impossible - but adaptability matters&lt;/strong>&lt;/h2>
 &lt;p>Toward the end of the session, Victoria was asked what advice would she give
 to future librarians and early-career professionals hoping to “future-proof”
-their careers.&lt;/p>
-&lt;p>Victoria’s response was refreshingly honest:&lt;/p>
+their careers. Victoria’s response was refreshingly honest:&lt;/p>
 &lt;div class="alert alert-note">
 &lt;div>
-&lt;blockquote>
-&lt;p>“The truth is there’s no such thing as future-proofing.”&lt;/p>
-&lt;/blockquote>
-&lt;p>— Victoria F. Caplan&lt;/p>
+&lt;div style="font-size:1.5em;">❝&lt;/div>
+&lt;div style="text-align: center; font-size: 1.5em; font-style: italic;">
+The truth is there’s no such thing as future-proofing.
+&lt;/div>
+&lt;div style="font-size:1.5em; text-align: right;">❞ &lt;/div>
+&lt;p>&amp;ndash; Victoria F. Caplan&lt;/p>
 &lt;/div>
 &lt;/div>
 &lt;p>Rather than chasing certainty, she encouraged participants to cultivate
@@ -219,28 +242,31 @@ to think about:&lt;/p>
 captured the relationship between technology and professional practice:&lt;/p>
 &lt;div class="alert alert-note">
 &lt;div>
-&lt;blockquote>
-&lt;p>“The questions remain the same, but the answers change.”&lt;/p>
-&lt;/blockquote>
+&lt;div style="font-size:1.5em;">❝&lt;/div>
+&lt;div style="text-align: center; font-size: 1.5em; font-style: italic;">
+The questions remain the same, but the answers change.
+&lt;/div>
+&lt;div style="font-size:1.5em; text-align: right;">❞ &lt;/div>
 &lt;p>&amp;ndash; Victoria F. Caplan, quoting from a science fiction novel&lt;/p>
 &lt;/div>
 &lt;/div>
 &lt;p>She used this idea to explain how libraries continue to face enduring
-challenges around access, preservation, discovery, and ethics - even as the technologies used to address those challenges evolve dramatically over time.&lt;/p>
-&lt;p>Victoria also referenced S. R. Ranganathan and his famous Fifth Law of Library
+challenges around access, preservation, discovery, and ethics - even as the technologies used to address those challenges evolve dramatically over time. Victoria also referenced S. R. Ranganathan and his famous Fifth Law of Library
 Science:&lt;/p>
 &lt;div class="alert alert-note">
 &lt;div>
-&lt;blockquote>
-&lt;p>“The library is a growing organism.”&lt;/p>
-&lt;/blockquote>
+&lt;div style="font-size:1.5em;">❝&lt;/div>
+&lt;div style="text-align: center; font-size: 1.5em; font-style: italic;">
+The library is a growing organism.
+&lt;/div>
+&lt;div style="font-size:1.5em; text-align: right;">❞ &lt;/div>
 &lt;p>&amp;ndash; Victoria F. Caplan, referencing S. R. Ranganathan&lt;/p>
 &lt;/div>
 &lt;/div>
 &lt;p>That quote captured the spirit of the entire conversation. Libraries are not
 static institutions. They continuously evolve alongside technology, research
 culture, and society itself.&lt;/p>
-&lt;h2 id="libraries-as-connectors-in-the-research-ecosystem">&lt;strong>Libraries as Connectors in the Research Ecosystem&lt;/strong>&lt;/h2>
+&lt;h2 id="libraries-as-connectors-in-the-research-ecosystem">&lt;strong>Libraries as connectors in the research ecosystem&lt;/strong>&lt;/h2>
 &lt;p>During the audience Q&amp;amp;A, participants discussed integrated library systems, institutional repositories, and the organisational structure of research
 support services at the HKUST. Victoria explained that the HKUST Library
 maintains a strong systems team and has historically invested heavily in
@@ -253,20 +279,21 @@ institutional history rather than strict rules about where activities “should�
 belong. What matters most is not necessarily which department owns a service,
 but whether the institution successfully supports researchers, preserves
 knowledge, and enables access.&lt;/p>
-&lt;h2 id="final-reflections">&lt;strong>Final Reflections&lt;/strong>&lt;/h2>
+&lt;h2 id="final-reflections">&lt;strong>Final reflections&lt;/strong>&lt;/h2>
 &lt;p>This episode highlighted that libraries are deeply connected to the future of
 research software, digital scholarship, and open science. Far from being
 passive support units, modern libraries are increasingly active collaborators
 in research ecosystems.&lt;/p>
 &lt;p>They are places where metadata meets ethics, where technical infrastructure
-meets teaching, and where curiosity drives continuous learning.&lt;/p>
-&lt;p>Toward the end of the conversation, Victoria summarised one of the most
-important lessons for professional growth:&lt;/p>
+meets teaching, and where curiosity drives continuous learning. Towards the
+end of the conversation, Victoria summarised one of the most important lessons for professional growth:&lt;/p>
 &lt;div class="alert alert-note">
 &lt;div>
-&lt;blockquote>
-&lt;p>“Share your conclusions.”&lt;/p>
-&lt;/blockquote>
+&lt;div style="font-size:1.5em;">❝&lt;/div>
+&lt;div style="text-align: center; font-size: 1.5em; font-style: italic;">
+Share your conclusions.
+&lt;/div>
+&lt;div style="font-size:1.5em; text-align: right;">❞ &lt;/div>
 &lt;p>&amp;ndash; Victoria F. Caplan&lt;/p>
 &lt;/div>
 &lt;/div>
@@ -279,6 +306,8 @@ mentorship, and curiosity.&lt;/p>
 &lt;p>As research ecosystems across Asia continue evolving, these conversations
 between librarians, research software engineers, digital scholarship
 practitioners, and research communities will only become more important.&lt;/p>
+&lt;div class="alert alert-note">
+&lt;div>
 &lt;h2 id="whats-next">&lt;strong>What’s next?&lt;/strong>&lt;/h2>
 &lt;p>Meanwhile, RSE Asia encourages community members to:&lt;/p>
 &lt;ul>
@@ -297,13 +326,18 @@ and collaboration across the Asian research ecosystem.&lt;/li>
 to get the latest news.&lt;/li>
 &lt;li>Follow &lt;a href="https://www.linkedin.com/company/rse-asia-association/" target="_blank" rel="noopener">RSE Asia&lt;/a> on LinkedIn for updates and opportunities.&lt;/li>
 &lt;/ul>
+&lt;/div>
+&lt;/div>
 &lt;h2 id="resources">&lt;strong>Resources:&lt;/strong>&lt;/h2>
-&lt;p>If you were not able to join the meetup live or would like to revisit it, the &lt;a href="https://youtu.be/MbvTgTJMTtg%20" target="_blank" rel="noopener">&lt;em>&lt;strong>video recording&lt;/strong>&lt;/em>&lt;/a> of the episode is available.&lt;/p>
+&lt;p>If you were not able to join the meetup live or would like to revisit it, the &lt;a href="https://youtu.be/MbvTgTJMTtg%20" target="_blank" rel="noopener">&lt;em>&lt;strong>YouTube video recording&lt;/strong>&lt;/em>&lt;/a> of the episode is available.&lt;/p>
 &lt;p align = "center">
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/MbvTgTJMTtg?si=ns-PHssZZHRPKK0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
 &lt;/p>
 &lt;p>Throughout the meetup, the guest, the facilitators, and the participants shared a bunch of useful resources for the community for shared progress. We have compiled it in the form of a Resource Sheet. Definitely, check it out!&lt;/p>
-&lt;h2 id="resource-sheet-coming-soon">&lt;em>&lt;strong>Resource sheet:&lt;/strong>&lt;/em> Coming soon!&lt;/h2>
+&lt;p>&lt;em>&lt;strong>Resource sheet:&lt;/strong>&lt;/em> Bhogal, J., Caplan, V. F., &amp;amp; Bhogal, S. K. (2026). Resource Sheet: Episode 3: Role of Libraries in Research Support for Scientific Software. Zenodo. &lt;a href="https://doi.org/10.5281/zenodo.20510761" target="_blank" rel="noopener">https://doi.org/10.5281/zenodo.20510761&lt;/a>&lt;/p>
+&lt;hr>
+&lt;div class="alert alert-note">
+&lt;div>
 &lt;h3 id="learn-more-about-us">&lt;strong>Learn more about us&lt;/strong>&lt;/h3>
 &lt;p>If you have any questions about, please reach out to us at:
 &lt;a href="mailto:rse.asia.association@gmail.com">rse.asia.association@gmail.com&lt;/a>.
@@ -312,4 +346,6 @@ For more information and to join upcoming events, visit:&lt;/p>
 &lt;li>Website: &lt;a href="https://rse-asia.github.io/RSE_Asia/" target="_blank" rel="noopener">https://rse-asia.github.io/RSE_Asia/&lt;/a>&lt;/li>
 &lt;li>For the latest news, events, activities, and opportunities, follow us on our &lt;a href="https://www.linkedin.com/company/rse-asia-association/" target="_blank" rel="noopener">LinkedIn page&lt;/a>&lt;/li>
 &lt;li>To join the RSE Asia community, please fill out our short &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSci4FOE7wBeDJQowDSmweujLhJFfzr2rut46yKJc0agkE7Jug/viewform?usp=header" target="_blank" rel="noopener">Community Membership Form&lt;/a>&lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;/ul>
+&lt;/div>
+&lt;/div></description></item></channel></rss>

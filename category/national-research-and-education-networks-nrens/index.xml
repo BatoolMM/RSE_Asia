@@ -10,7 +10,8 @@ width="760"
 height="587"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
-&lt;/p>
+&lt;em>Image: Banner for episode 1 of the &amp;lsquo;Research Software and NRENs in Asia&amp;rsquo;
+series.&lt;/em>&lt;/p>
 &lt;p>On the &lt;a href="https://www.unesco.org/en/articles/2026-international-day-women-and-girls-science" target="_blank" rel="noopener">International Day of Women and Girls in Science&lt;/a>&lt;strong>,&lt;/strong> 11 February 2026, the
 &lt;a href="https://rse-asia.github.io/RSE_Asia/" target="_blank" rel="noopener">RSE Asia Association&lt;/a> launched a new
 community conversation series on &lt;a href="https://rse-asia.github.io/RSE_Asia/event/" target="_blank" rel="noopener">&lt;em>&lt;strong>Research Software and NRENs in Asia&lt;/strong>&lt;/em>&lt;/a>. This series is a part of a MoU between RSE Asia and the
@@ -45,10 +46,12 @@ telemedicine, and network engineering.&lt;/p>
 &lt;p>A powerful metaphor from Liana captured the essence of the discussion:&lt;/p>
 &lt;div class="alert alert-note">
 &lt;div>
-&lt;blockquote>
-&lt;p>“Infrastructure without software is like a highway without vehicles.”&lt;/p>
-&lt;/blockquote>
-&lt;p>— Liana Jacinta Jaganathan&lt;/p>
+&lt;div style="font-size:1.5em;">❝&lt;/div>
+&lt;div style="text-align: center; font-size: 1.5em; font-style: italic;">
+Infrastructure without software is like a highway without vehicles.
+&lt;/div>
+&lt;div style="font-size:1.5em; text-align: right;">❞ &lt;/div>
+&lt;p>&amp;ndash; Liana Jacinta Jaganathan&lt;/p>
 &lt;/div>
 &lt;/div>
 &lt;p>High-speed networks alone are not enough. Without research software, data
@@ -137,15 +140,19 @@ itself.&lt;/p>
 Asia-Pacific, Liana offered a powerful closing thought:&lt;/p>
 &lt;div class="alert alert-note">
 &lt;div>
-&lt;blockquote>
-&lt;p>Don’t just build for your organisation. Build for the ecosystem.&lt;/p>
-&lt;/blockquote>
-&lt;p>— Liana Jacinta Jaganathan&lt;/p>
+&lt;div style="font-size:1.5em;">❝&lt;/div>
+&lt;div style="text-align: center; font-size: 1.5em; font-style: italic;">
+Don’t just build for your organisation. Build for the ecosystem.
+&lt;/div>
+&lt;div style="font-size:1.5em; text-align: right;">❞ &lt;/div>
+&lt;p>&amp;ndash; Liana Jacinta Jaganathan&lt;/p>
 &lt;/div>
 &lt;/div>
 &lt;p>This message resonated deeply with the spirit of the series.
 Research software is not just code - it is an infrastructure for
 collaboration, resilience, and shared progress.&lt;/p>
+&lt;div class="alert alert-note">
+&lt;div>
 &lt;h2 id="whats-next">&lt;strong>What’s next?&lt;/strong>&lt;/h2>
 &lt;p>The conversation continues! The second episode will feature
 &lt;a href="https://www.linkedin.com/in/veerachai-tanpipat-5a7022304/" target="_blank" rel="noopener">Dr. Veerachai Tanpipat&lt;/a>,
@@ -156,8 +163,10 @@ the Open Science Collaborative and Resource (OSCR)).&lt;/p>
 &lt;li>Participate in the ongoing &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSeLWbwy2vL67b-Qxjf3VRsRvYFBfH0_r7Zs4YhkX4A3I_0L3w/viewform" target="_blank" rel="noopener">research software landscape survey in Asia&lt;/a>, which is open until 31st March 2026. You also stand a chance to win a cash prize of £10 for 5 participants based on a raffle.&lt;/li>
 &lt;li>Register for &lt;a href="https://us06web.zoom.us/meeting/register/JGnHlnKZSr-vg-e7xMyumg#/" target="_blank" rel="noopener">Episode 2: Research Software and Environmental Research in Asia&lt;/a>, where we welcome &lt;a href="https://www.linkedin.com/in/veerachai-tanpipat-5a7022304/" target="_blank" rel="noopener">Dr. Veerachai Tanpipat&lt;/a>, Senior Expert, Hydro Informatics Institute, Thailand, with whom we discuss open science practices and how they help to solve real-world problems with the APAN infrastructure.&lt;/li>
 &lt;li>Join the RSE Asia &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSci4FOE7wBeDJQowDSmweujLhJFfzr2rut46yKJc0agkE7Jug/viewform?usp=header" target="_blank" rel="noopener">Community Membership&lt;/a> to get the latest news.&lt;/li>
-&lt;li>Follow &lt;a href="https://www.linkedin.com/company/rse-asia-association/" target="_blank" rel="noopener">RSE Asia&lt;/a> on LinkedIn for updates and opportunities&lt;/li>
+&lt;li>Follow &lt;a href="https://www.linkedin.com/company/rse-asia-association/" target="_blank" rel="noopener">RSE Asia&lt;/a> on LinkedIn for updates and opportunities.&lt;/li>
 &lt;/ul>
+&lt;/div>
+&lt;/div>
 &lt;p>This kickoff episode made one thing clear: when research software,
 infrastructure, and community align, the possibilities extend far beyond
 connectivity.&lt;/p>
@@ -175,6 +184,8 @@ progress. We have compiled it in the form of a Resource Sheet. Definitely,
 check it out!&lt;/p>
 &lt;p>&lt;em>&lt;strong>Resource sheet:&lt;/strong>&lt;/em> Bhogal, J., Jaganathan, L. J., &amp;amp; Bhogal, S. K. (2026). Resource Sheet: Episode 1: Connecting NRENs and Research Software in Asia. Zenodo. &lt;a href="https://doi.org/10.5281/zenodo.18846080" target="_blank" rel="noopener">https://doi.org/10.5281/zenodo.18846080&lt;/a>&lt;/p>
 &lt;hr>
+&lt;div class="alert alert-note">
+&lt;div>
 &lt;h3 id="learn-more-about-us">&lt;strong>Learn more about us&lt;/strong>&lt;/h3>
 &lt;p>If you have any questions about, please reach out to us at:
 &lt;a href="mailto:rse.asia.association@gmail.com">rse.asia.association@gmail.com&lt;/a>.
@@ -183,4 +194,6 @@ For more information and to join upcoming events, visit:&lt;/p>
 &lt;li>Website: &lt;a href="https://rse-asia.github.io/RSE_Asia/" target="_blank" rel="noopener">https://rse-asia.github.io/RSE_Asia/&lt;/a>&lt;/li>
 &lt;li>For the latest news, events, activities, and opportunities, follow us on our &lt;a href="https://www.linkedin.com/company/rse-asia-association/" target="_blank" rel="noopener">LinkedIn page&lt;/a>&lt;/li>
 &lt;li>To join the RSE Asia community, please fill out our short &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSci4FOE7wBeDJQowDSmweujLhJFfzr2rut46yKJc0agkE7Jug/viewform?usp=header" target="_blank" rel="noopener">Community Membership Form&lt;/a>&lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;/ul>
+&lt;/div>
+&lt;/div></description></item></channel></rss>
